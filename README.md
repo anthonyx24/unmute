@@ -1,2 +1,1 @@
-# unmute
-Unmute (Mobile Music App)
+# Unmute (Mobile Music App with React Native)

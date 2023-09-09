@@ -7,5 +7,10 @@ This is my learning project for React Native. With my partner Sam, I designed th
 ## Current Stage:
 
 I've coded out the basic front-end for two screens, the Home and Explore pages. Unfortunately I haven't figured out all the features yet, but here is what I have so far:
-![Home9:8](https://github.com/anthonyx24/unmute/assets/79112832/c3cc8e23-274a-4e41-984e-44db914008b2)
-![Explore9:8](https://github.com/anthonyx24/unmute/assets/79112832/7a231e2e-8c87-40bd-bb9f-463e251b783f)
+
+Home Page            |  Explore Page
+:-------------------------:|:-------------------------:
+![Home9:8](https://github.com/anthonyx24/unmute/assets/79112832/c3cc8e23-274a-4e41-984e-44db914008b2)  |  ![Explore9:8](https://github.com/anthonyx24/unmute/assets/79112832/7a231e2e-8c87-40bd-bb9f-463e251b783f)
+
+
+
